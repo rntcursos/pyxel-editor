@@ -1,0 +1,15 @@
+
+#Settings
+WIDTH = 1280
+HEIGHT = 720
+
+#bar_tools
+BAR_TOOLS_SIZE = (180,720)
+
+#canvas
+CANVAS_SIZE = (900,600)
+
+#colors
+BG_COLOR = [26,26,26]
+TOOLS_COLOR = [51,51,51]
+BUTTONS_COLOR = [71,71,71]
